@@ -2,7 +2,7 @@
 #include<conio.h>
 #include<stdlib.h>
 #include<string.h>
-//made by ved and sameer
+//made by ved ra2111003010747 and sameer ra2111003010750
 struct library
 {
 char bk_name[30];
